@@ -3,4 +3,4 @@ Files and Exceptions
 
 The Python files build on each other.
 
-To get the full experience pleas view them in numerical order.
+To get the full experience please view them in numerical order.
