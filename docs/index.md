@@ -8,7 +8,7 @@ Assignment 07
 
 Github Repository: [IMarshallUW/IntroToProg-Python-Mod07: Files and Exceptions (github.com)](https://github.com/IMarshallUW/IntroToProg-Python-Mod07)
 
-Github Webpage: [IntroToProg-Python-Mod07 | Files and Exceptions (imarshalluw.github.io)](https://imarshalluw.github.io/IntroToProg-Python-Mod07/)
+Github Webpage: [IntroToProg-Python-Mod07 Files and Exceptions (imarshalluw.github.io)](https://imarshalluw.github.io/IntroToProg-Python-Mod07/)
 
 # Assignment 07 – Files and Exceptions
 
