@@ -20,7 +20,7 @@ To begin, after the title block and declaring our variables we begin each file w
 
 Pickling is a function that converts any Python object (list, dict, etc.) to and from binary. This allows for easier transfer between databases to then be stored in a file or database. We started with the import pickle command which lets the program know that at some point in the script it will importing binary code from another file. We then used a very basic code to obtain a customer name and phone number and add them to a list in memory. Followed by the use of the pickle.dump and how it works, explaining that it still writes the code to a file, just an extra bit of code to tell the program to write it as binary. To close out the program we use the pickle.load command to read the code in the file and show it to the user, but highlight that that command will only show a single row (figure 01). In the next file we will show how to make the command more complex to read the whole file.
 
-![*Figure 1: Assignment07_01 Pickling script*](https://github.com/IMarshallUW/IntroToProg-Python-Mod07/tree/main/docs/assets/Figure1.png)
+![*Figure 1: Assignment07_01 Pickling script*](./assets/Figure1.png)
 
 ## File: Assignment07_02 Exception Handling
 
